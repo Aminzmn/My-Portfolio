@@ -21,6 +21,6 @@ Visit the website here:
 ### 📸 Preview
 
 
-### 🛠️ Installation (for devs or yourself later)
+### 🛠️ Installation
 
 
