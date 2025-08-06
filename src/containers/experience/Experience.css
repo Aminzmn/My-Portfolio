@@ -1,0 +1,16 @@
+.experience-header-text {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.experience-main-div {
+    display: flex;
+}
+
+.experience-text-div {
+    flex: 1;
+}
+
+a {
+    color: wheat;
+}
